@@ -1,0 +1,23 @@
+p {
+  font-size: 100px;
+}
+section {
+}
+p {
+  font-size: 10px;
+}
+/*id selector (1,0,0)*/
+#one {
+    color: blue;
+}
+/*class selector(0,1,0)*/
+.two {
+color: green;
+}
+/*type selector (0,0,1)*/
+p {
+color: rgb(187, 50, 50)
+}
+img {
+
+}
